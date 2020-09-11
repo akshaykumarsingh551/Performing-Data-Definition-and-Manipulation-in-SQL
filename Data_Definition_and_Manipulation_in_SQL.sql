@@ -153,40 +153,6 @@ SET gender = 'F'
 WHERE customer_id = 7;
 
 
--- Create a companies_dup table
-
-
-
-
-
-
--- Insert records from companies table into the companies_dup table
-
-
-
-
-
-
-
--- ALTER the companies_dup table to add a UNIQUE KEY constraint
--- to the headquarters_phone_number field.
-
-
-
--- Change the company_id column to be auto_increment
-
-
-
--- Change the headquarters_phone_number field to VARCHAR(255) NOT NULL
-
-
-
-
--- Use RENAME to give the sales_dup table a new name called sales_data
-
-
-
--- We will UPDATE some records in the customers_dup table
 
 
 
