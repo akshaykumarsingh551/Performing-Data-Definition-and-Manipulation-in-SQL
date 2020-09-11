@@ -4,7 +4,7 @@
 
 **The hands on project on Performing Data Definition and Manipulation in SQL is divided into following tasks:**
 
-**Task 1: Introduction:**
+**Task 1: Introduction**
 
         i) Introduction to the SQL
         
