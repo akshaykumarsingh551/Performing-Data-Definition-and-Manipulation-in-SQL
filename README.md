@@ -5,6 +5,7 @@
 **The hands on project on Performing Data Definition and Manipulation in SQL is divided into following tasks:**
 
 **Task 1: Introduction:**
+
         i) Introduction to the SQL
         
        ii) Prerequisites for this course
@@ -30,6 +31,7 @@
       iii) Insert five (5) records into the items table
       
 **Task 4: Data Manipulation in SQL - Part 2**
+
        i) Upload a CSV file titled companies into the sales database
        
       ii) Create a new table called sales_dup
